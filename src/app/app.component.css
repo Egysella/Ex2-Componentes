@@ -1,0 +1,27 @@
+main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(240, 159, 233);
+}
+div{
+    width: 400px;
+    height: 300px;
+    border: 4px solid rgb(54, 2, 65);
+    border-radius: 30px;
+}
+.formulario {
+    border: 3px solid rgb(153, 8, 153);
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 15px;
+    background-color: rgb(189, 43, 226);
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+    align-items: center;
+    margin: 10px;
+}

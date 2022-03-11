@@ -1,0 +1,14 @@
+.botao {
+    text-align: center;
+}
+
+#btn {
+    width: 200px;
+    height: 30px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 6px;
+    background: #0e6097;
+    color: white;
+    cursor: pointer;
+}
